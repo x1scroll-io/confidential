@@ -1,0 +1,13 @@
+{
+  "name": "@x1scroll/confidential",
+  "version": "0.1.0",
+  "description": "Confidential transfers SDK for X1 — wallet-ready for iOS, Android, Chrome extension",
+  "main": "index.js",
+  "browser": "index.js",
+  "keywords": ["x1", "confidential", "privacy", "wallet", "solana", "x1scroll"],
+  "author": "x1scroll.io",
+  "license": "MIT",
+  "peerDependencies": {
+    "@solana/web3.js": "^1.x"
+  }
+}
